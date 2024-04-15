@@ -1,5 +1,3 @@
-Certainly! Here's the complete README file with all the information provided:
-
 ---
 
 # Grocery Delivery Route Optimizer Using Q-Learning
@@ -50,7 +48,7 @@ No additional installation is needed for the standard libraries such as Math, It
 1. Clone this repository to your local machine:
 
 ```bash
-git clone <repository_url>
+git clone <https://github.com/RajeevG187/Grocery-Delivery-Route-Optimizer-Using-Q-Learning.git>
 ```
 
 2. Navigate to the directory containing the code:
