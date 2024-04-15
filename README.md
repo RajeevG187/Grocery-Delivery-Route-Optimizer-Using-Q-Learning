@@ -48,19 +48,19 @@ No additional installation is needed for the standard libraries such as Math, It
 1. Clone this repository to your local machine:
 
 ```bash
-git clone <https://github.com/RajeevG187/Grocery-Delivery-Route-Optimizer-Using-Q-Learning.git>
+git clone https://github.com/RajeevG187/Grocery-Delivery-Route-Optimizer-Using-Q-Learning.git
 ```
 
 2. Navigate to the directory containing the code:
 
 ```bash
-cd <repository_directory>
+cd Grocery-Delivery-Route-Optimizer-Using-Q-Learning
 ```
 
 3. Run the main Python script:
 
 ```bash
-python grocery_delivery_optimizer.py
+python Grocery Delivery Route Optimizer Using Q-Learning.ipynb
 ```
 
 4. Follow the on-screen instructions to observe the learning process and evaluate the learned policy.
